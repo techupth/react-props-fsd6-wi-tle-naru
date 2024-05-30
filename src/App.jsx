@@ -88,7 +88,10 @@ function ProductSection() {
             />
             <h3>Organic Green Tea</h3>
             <p className="product-price">79.99 Baht</p>
-            <Button buttonStyle="add-to-cart-button" buttonText="Add to Cart" />
+            <Button
+              buttonStyle="add-to-cart-button-secondary"
+              buttonText="Add to Cart"
+            />
           </div>
         </div>
       </div>
